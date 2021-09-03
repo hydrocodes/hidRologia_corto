@@ -9,6 +9,6 @@ Repositorio de los talleres: **hidRologia con R**
 - 2-3sep2021 - CIDRHI WER CIGLAS (Lima)<p>
 1. Introducción a las series de tiempo hidrológicas
 2. Entorno R y Rstudio (estadisticos, histogramas, regresion lineal)
-3. Análisis exploratorio de datos (datos mensuales y diarios)
+3. Análisis exploratorio de datos (datos mensuales / diarios)
 4. Introducción a la hidrología en la nube (curva de duracion)
 
