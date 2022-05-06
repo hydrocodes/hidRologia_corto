@@ -11,7 +11,6 @@ Repositorio de los talleres: **hidRologia con R**
 - 13-15abr2021 - UTEC-Ambiental (Lima)<p>
 - 2-3sep2021 - CIDRHI WER CIGLAS (Lima)<p>
 - 5-7oct2021 - UTEC-Ambiental (Lima)<p>
-- 2oct2021 - UNI-Civil (Lima)<p>
+- 27nov2021 - UNI-Civil (Lima)<p>
 - 25-27abr2022 - UTEC-Ambiental (Lima)<p>
-  
 
