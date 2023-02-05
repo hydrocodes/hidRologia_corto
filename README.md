@@ -1,6 +1,7 @@
 # hidRologia_corto <p>
 <img src="https://github.com/hydrocodes/hidRologia_corto/blob/master/logoR1.jpg" width="120">
-Repositorio de los talleres: **hidRologia con R**
+Repositorio de los talleres: **hidRologia con R**<p>
+
 1. Introducción a las series de tiempo hidrológicas
 2. Entorno R y Rstudio (estadisticos, histogramas, regresion lineal, funciones)
 3. Análisis exploratorio de datos (datos mensuales y diarios)
