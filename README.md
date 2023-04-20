@@ -18,4 +18,6 @@ Repositorio de los talleres: **hidRologia con R**<p>
 - 5-7oct2021 - UTEC-Ambiental (Lima)<p>
 - 27nov2021 - UNI-Civil (Lima)<p>
 - 25-27abr2022 - UTEC-Ambiental (Lima)<p>
-- 14-16sep2022 - UTEC-Ambiental (Lima)
+- 14-16sep2022 - UTEC-Ambiental (Lima)<p>
+- 26-28abr2023 - UTEC-Civil-Ambiental (Lima)<p>
+- 27may2023 - UNI-Civil (Lima)<p>
