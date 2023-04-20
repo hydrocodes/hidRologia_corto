@@ -11,13 +11,12 @@ Repositorio de los talleres: **hidRologia con R**<p>
 - 20jun2020 - UNHEVAL-GEAHH (Huanuco)<p>
 - 4jul2020 - UNI-Civil (Lima)<p>
 - 16oct2020 - USTA-Ambiental (Bogota)<p>
-- 20-22oct2020 - UTEC-Ambiental (Lima)<p>
+- 20/22oct2020 - UTEC-Ambiental (Lima)<p>
 - 25oct2020 - USFX-Civil (Sucre)<p>
-- 13-15abr2021 - UTEC-Ambiental (Lima)<p>
+- 13/15abr2021 - UTEC-Ambiental (Lima)<p>
 - 2-3sep2021 - CIDRHI WER CIGLAS (Lima)<p>
 - 5-7oct2021 - UTEC-Ambiental (Lima)<p>
 - 27nov2021 - UNI-Civil (Lima)<p>
-- 25-27abr2022 - UTEC-Ambiental (Lima)<p>
-- 14-16sep2022 - UTEC-Ambiental (Lima)<p>
-- 26-28abr2023 - UTEC-Civil-Ambiental (Lima)<p>
-- 27may2023 - UNI-Civil (Lima)<p>
+- 25/27abr2022 - UTEC-Ambiental (Lima)<p>
+- 14/16sep2022 - UTEC-Ambiental (Lima)<p>
+- 26/28abr2023 - UTEC-Civil-Ambiental (Lima)<p>
