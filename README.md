@@ -1,6 +1,7 @@
 # hidRologia_corto <p>
 <img src="https://github.com/hydrocodes/hidRologia_corto/blob/master/logoR1.jpg" width="120">
-Repositorio de los talleres: **hidRologia con R**<p>
+Repositorio de los talleres:<p>
+**hidRologia con R**<p>
 
 1. Introducción a las series de tiempo hidrológicas
 2. Entorno R y Rstudio (estadisticos, histogramas, regresion lineal, funciones)
@@ -20,3 +21,5 @@ Repositorio de los talleres: **hidRologia con R**<p>
 - 25/27abr2022 - UTEC-Ambiental (Lima)<p>
 - 14/16sep2022 - UTEC-Ambiental (Lima)<p>
 - 26/28abr2023 - UTEC-Civil-Ambiental (Lima)<p>
+- 20may2023 - UNI-Civil (Lima)<p>
+ 
