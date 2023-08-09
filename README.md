@@ -22,4 +22,4 @@ Repositorio de los talleres:<p>
 - 14/16sep2022 - UTEC-Ambiental (Lima)<p>
 - 26/28abr2023 - UTEC-Civil-Ambiental (Lima)<p>
 - 20may2023 - UNI-Civil (Lima)<p>
- 
+- 8/9ago2023 - UNA-Agricola (Puno)<p> 
