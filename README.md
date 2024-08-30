@@ -23,4 +23,5 @@ Repositorio de los talleres:<p>
 - 26/28abr2023 - UTEC-Civil-Ambiental (Lima)<p>
 - 20may2023 - UNI-Civil (Lima)<p>
 - 8/9ago2023 - UNA-Agricola (Puno)<p>
-- 2/3may2024 - UTEC-Civil-Ambiental (Lima)<p> 
+- 2/3may2024 - UTEC-Civil-Ambiental (Lima)<p>
+- 12/24ago2024 - USFX-Civil (Sucre)<p>
